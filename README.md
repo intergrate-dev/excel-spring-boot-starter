@@ -481,3 +481,7 @@ public List<DemoData> e1() {
 - 理论上支持 [alibaba/easyexcel](https://github.com/alibaba/easyexcel) v2.2.10 版本的大部分配置
 - 支持 [alibaba/easyexcel](https://www.yuque.com/easyexcel/doc/write) 原生的配置注解
 - [github stater 地址，可fork 魔改](https://github.com/pigxcloud/excel-spring-boot-starter)
+
+## 参考
+https://www.cnblogs.com/vcmq/p/12149673.html
+https://blog.csdn.net/qq_40184563/article/details/102687723
